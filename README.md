@@ -49,7 +49,7 @@ Users can:
 
 ## 📸 Screenshots
 
-[Add screenshots here]
+in the screenshots folder
 
 ---
 
